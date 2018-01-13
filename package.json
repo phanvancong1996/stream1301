@@ -1,0 +1,19 @@
+{
+  "name": "stream1301",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phanvancong1996/stream1301.git",
+  "author": "phanvancong1996 <phanvancong7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "script":{
+    "start":"node index.js"
+  },
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "simple-peer": "^8.2.0"
+  }
+}
